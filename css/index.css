@@ -508,7 +508,7 @@ h1 {
 }
 
 /* media */
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 325px){
 
     .flex{
         flex-wrap: wrap;
